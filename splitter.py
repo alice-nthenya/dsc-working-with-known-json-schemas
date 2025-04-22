@@ -11,7 +11,7 @@ MASTER_BRANCH = "master"
 SOLUTION_BRANCH = "solution"
 CUSTOM_COMMIT_MSG_FLAG = "-m"
 
-# FUNCTIONS
+# FUNCTIONS # Functions
 
 
 def get_notebook_json(filename="index.ipynb"):
